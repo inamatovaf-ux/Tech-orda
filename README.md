@@ -71,7 +71,7 @@
 
 ## 📊 Стек
 
-`Python` · `Pandas` · `Seaborn` · `Scikit-learn` · `SciPy` · `SQL` · `Power BI`
+`Python` · `Pandas` · `Seaborn` · `SQL` · `Power BI`
 
 ---
 
